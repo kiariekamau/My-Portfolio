@@ -6,6 +6,8 @@ h1 {
 }
 .important{
     padding-left: 30%;
+    font-size: 8mm;
+    color:  rgb(1, 70, 1);
 }
 img {
     padding-left: 40%;
@@ -30,15 +32,18 @@ h5 {
     background-color: mediumaquamarine;
     color: mistyrose;
 }
-p {
+.details {
+    color: brown;
     font-size: 8mm;
-    color: rgb(1, 70, 1);
+}
+.description {
+        font-size: 8mm;
+        color: rgb(1, 70, 1);
 }
 ol {
     font-size: 7mm;
     color:rgb(170, 2, 2);
 }
-
 body {
     background-color: mistyrose ;
 }
