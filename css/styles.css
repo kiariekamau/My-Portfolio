@@ -10,7 +10,7 @@ h1 {
     color:  rgb(1, 56, 1);
 }
 img {
-    padding-left: 40%;
+    float: right;
 }
 h2 {
     color: rgb(5, 5, 168);
@@ -32,17 +32,23 @@ h5 {
     background-color: mediumaquamarine;
     color: mistyrose;
 }
-.details {
+.details p {
     color: brown;
     font-size: 8mm;
 }
 .description {
         font-size: 8mm;
         color: rgb(1, 70, 1);
+        border: brown;
+        padding-left: 10%;
 }
 ol {
     font-size: 7mm;
     color:rgb(170, 2, 2);
+}
+ul {
+    font-size: 7mm;
+    color: rgb(1, 70, 1);
 }
 body {
     background-color: mistyrose ;
